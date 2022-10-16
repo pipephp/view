@@ -2,10 +2,10 @@
   "name": "pipe/view",
   "description": "Blazingly fast php templating engine",
   "keywords": [
-    "leaf",
     "php",
     "simple templating",
     "template",
+    "template-php",
     "view"
   ],
   "homepage": "https://github.com/unamatasanatarai/pipe-view",
