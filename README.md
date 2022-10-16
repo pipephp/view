@@ -1,9 +1,25 @@
-# 🔥 Pipe View is Simple
+<h3 align=center>🔥 Pipe View is Simple</h3>
 
-Simple, purephp blazinglyfast Template rendering engine (?)
+<p align=center>
+<samp>Simple, purephp blazinglyfast Template rendering engine (?)</samp>
+</p>
 
+<p align="center">
+    <a href="https://packagist.org/packages/pipe/view"><img src="https://poser.pugx.org/pipe/view/v/stable?style=for-the-badge" alt="Latest Stable Version"/></a>
+    <a href="https://packagist.org/packages/pipe/view"><img src="https://poser.pugx.org/pipe/view/downloads?style=for-the-badge" alt="Total Downloads"/></a>
+    <a href="https://packagist.org/packages/pipe/view"><img src="https://poser.pugx.org/pipe/view/license?style=for-the-badge" alt="License"/></a>
+</p>
 
-## Philosophy
+---
+
+#### Installation
+
+```bash
+composer require pipe/view
+```
+
+---
+#### Philosophy
 
 1. **Small is Beautiful.**
    - Do one thing,
