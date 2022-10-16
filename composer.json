@@ -8,7 +8,7 @@
     "template-php",
     "view"
   ],
-  "homepage": "https://github.com/unamatasanatarai/pipe-view",
+  "homepage": "https://github.com/pipephp/view",
   "type": "library",
   "license": "MIT",
   "authors": [
