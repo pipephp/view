@@ -1,0 +1,40 @@
+{
+  "name": "pipe/view",
+  "description": "Blazingly fast php templating engine",
+  "keywords": [
+    "leaf",
+    "php",
+    "simple templating",
+    "template",
+    "view"
+  ],
+  "homepage": "https://github.com/unamatasanatarai/pipe-view",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Unamata Sanatarai",
+      "email": "unamatasanatarai@gmail.com",
+      "homepage": "https://github.com/unamatasanatarai",
+      "role": "c.e.o."
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/view.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require-dev": {
+    "pestphp/pest": "^1.22"
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  },
+  "scripts": {
+    "test": "./vendor/bin/pest"
+  }
+}
