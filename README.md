@@ -1,7 +1,7 @@
-<h3 align=center>🔥 Pipe View is Simple</h3>
+<h1 align=center>🔥 Pipe View is Simple</h1>
 
 <p align=center>
-<samp>Simple, purephp blazinglyfast Template rendering engine (?)</samp>
+  <samp>Simple, purephp blazinglyfast Template rendering engine (?)</samp>
 </p>
 
 <p align="center">
@@ -12,14 +12,13 @@
 
 ---
 
-#### Installation
+## Installation
 
 ```bash
 composer require pipe/view
 ```
 
----
-#### Philosophy
+## Philosophy
 
 1. **Small is Beautiful.**
    - Do one thing,
